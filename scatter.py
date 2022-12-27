@@ -6,7 +6,7 @@ from PIL import Image
 
 st.set_page_config(page_title = 'Scatter SNBP NF')
 
-image = Image.open('E:\tugas ti polda\snbp\scatter snbp\logo.png')
+image = Image.open('logo.png')
 
 st.image(image)
 
